@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ElanHR
+- 👋 Hi, I’m [@ElanHR](https://www.wikidata.org/wiki/User:ElanHR)
+- 🌱 I’m currently learning for a better model to parse semantic frames.
 - 👀 I’m interested in Machine learning, NLP, and Robotics
-- 🌱 I’m currently learning for a better model to parse semantic frames. 
 - 💞️ I’m looking to collaborate on project [Gutenborg](https://github.com/ElanHR/gutenborg)
 <!--- - 📫 How to reach me: --->
 
